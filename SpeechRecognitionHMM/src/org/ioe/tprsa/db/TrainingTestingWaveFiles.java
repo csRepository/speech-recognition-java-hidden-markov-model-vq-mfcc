@@ -12,7 +12,7 @@ import java.io.File;
 
 /**
  * various operations relating to reading train/testing wav folders<br>
- * works according to the filePath supplied in constructor arguement
+ * works according to the filePath supplied in constructor argument
  * 
  * @author Ganesh Tiwari
  * 

@@ -13,7 +13,7 @@ import org.ioe.tprsa.audio.feature.FeatureVector;
 import org.ioe.tprsa.audio.feature.MFCC;
 
 /**
- * Feature extraction, cepstral mean substraction, and merging with deltas
+ * Feature extraction, cepstral mean subtraction, and merging with deltas
  * 
  * @author Ganesh Tiwari
  * 
@@ -121,7 +121,7 @@ public class FeatureExtract {
 	}
 
 	/**
-	 * performs cepstral mean substraction. <br>
+	 * performs cepstral mean subtraction. <br>
 	 * it removes channel effect...
 	 */
 	private void doCepstralMeanNormalization() {
